@@ -1,4 +1,4 @@
-# Juegos-en-C-
+# Juegos-en-C++-
 Ejercicios integradores creados en C++
 
 CONSIGNAS:
